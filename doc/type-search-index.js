@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.librian.lib","l":"APNGCollector"},{"p":"com.librian.lib","l":"APNGSeparator"},{"p":"com.librian.lib","l":"Chunk"},{"p":"com.librian.lib","l":"Frame"}];updateSearchResults();
