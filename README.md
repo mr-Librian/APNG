@@ -69,7 +69,7 @@
         f.close();
     }
     ```
-        input:<br>
+    input:<br>
     ![output](res/2/1.png)
     ![output](res/2/2.png)
     ![output](res/2/3.png)
